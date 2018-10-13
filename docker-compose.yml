@@ -16,6 +16,7 @@ services:
       - "9229:9229"
     volumes:
       - .:/opt/app
-      - C:\Users\guill\.upnp-remote:/root/.upnp-remote
+      - ~/.upnp-remote:/home/node/.upnp-remote
+      #- C:\Users\guill\.upnp-remote:/home/node/.upnp-remote
     environment:
       - NODE_ENV=development
