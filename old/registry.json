@@ -1,0 +1,14 @@
+[
+  {
+    "CACHE-CONTROL": "max-age=300",
+    "DATE": "Thu, 01 Jan 1970 17:05:32 GMT",
+    "EXT": "",
+    "LOCATION": "http://192.168.0.12:49153/description1.xml",
+    "OPT": "\"http://schemas.upnp.org/upnp/1/0/\"; ns=01",
+    "01-NLS": "4d10e406-1dd2-11b2-a91e-d02f54ab949d",
+    "SERVER": "Linux/3.3.8-2.2 UPnP/1.0 NDS_MHF DLNADOC/1.50",
+    "X-USER-AGENT": "redsonic",
+    "ST": "urn:schemas-upnp-org:service:RemoteUIServer:1",
+    "USN": "uuid:52554976-3247-5265-6D6F-c0c687d4b91f::urn:schemas-upnp-org:service:RemoteUIServer:1"
+  }
+]

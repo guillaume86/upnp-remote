@@ -1,0 +1,42 @@
+/**
+ * Key codes of the Box .évasion remote
+ */
+declare enum RemoteButton {
+    REMOTE_0 = 58112,
+    REMOTE_1 = 58113,
+    REMOTE_2 = 58114,
+    REMOTE_3 = 58115,
+    REMOTE_4 = 58116,
+    REMOTE_5 = 58117,
+    REMOTE_6 = 58118,
+    REMOTE_7 = 58119,
+    REMOTE_8 = 58120,
+    REMOTE_9 = 58121,
+    FAST_REVERSE = 58375,
+    FAST_FORWARD = 58373,
+    PLAY = 58368,
+    MUTE = 57349,
+    STAND_BY = 57344,
+    STOP = 58370,
+    RECORD = 58371,
+    TV = 57360,
+    VOD = 61224,
+    GUIDE = 57355,
+    INFO = 57358,
+    MY_RECORDINGS = 61235,
+    VIDEO_WALL = 61234,
+    APPLICATION = 57352,
+    BE_ON_DEMAND = 61236,
+    BACK = 57346,
+    HOME = 61184,
+    VOL_UP = 57347,
+    VOL_DOWN = 57348,
+    UP = 57600,
+    DOWN = 57601,
+    LEFT = 57602,
+    RIGHT = 57603,
+    RED_KEY = 57856,
+    BE_TV = 57359,
+    OK = 57345
+}
+export default RemoteButton;

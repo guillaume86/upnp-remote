@@ -1,0 +1,4352 @@
+{
+  "Channels": {
+    "resultCount": 221,
+    "Channel": [
+      {
+        "id": "1:108:10801",
+        "LogicalChannelNumber": 1,
+        "Name": "LA UNE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/1-LaUne.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/La1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:108:10802",
+        "LogicalChannelNumber": 2,
+        "Name": "LA DEUX",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/2-LaDeux.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/La2.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:108:10803",
+        "LogicalChannelNumber": 3,
+        "Name": "LA TROIS",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/3-LaTrois.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/La3.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:108:10804",
+        "LogicalChannelNumber": 4,
+        "Name": "RTL-TVI",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/4-RTL-TVI.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/rtl-tvi.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:108:10805",
+        "LogicalChannelNumber": 5,
+        "Name": "CLUB RTL",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/5-ClubRTL.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/club-rtl.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:108:10806",
+        "LogicalChannelNumber": 6,
+        "Name": "PLUG RTL",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/5-PlugRTL-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/plug-rtl.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:104:10401",
+        "LogicalChannelNumber": 7,
+        "Name": "TF1",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/7-TF1.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/tf1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:104:10402",
+        "LogicalChannelNumber": 8,
+        "Name": "FRANCE 2",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/8-France2.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/8-F2.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:104:10403",
+        "LogicalChannelNumber": 9,
+        "Name": "FRANCE 3",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/9-France3.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/9-F3.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:110:11002",
+        "LogicalChannelNumber": 10,
+        "Name": "ARTE BELGIQUE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/10-ARTE-Belgique.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/arte_belgique_.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:103:10306",
+        "LogicalChannelNumber": 12,
+        "Name": "TV5 MONDE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/12-TV5Monde-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TV5MONDE_bl.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:106:10603",
+        "LogicalChannelNumber": 13,
+        "Name": "13EME RUE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/13-13THRue-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/13thRue-BLC.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:101:10103",
+        "LogicalChannelNumber": 14,
+        "Name": "AB3",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/14-AB3_bl.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/AB3-blanc.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:105:10501",
+        "LogicalChannelNumber": 15,
+        "Name": "VOO",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/11-VOO.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOO-PNG-300DPI-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:104:10404",
+        "LogicalChannelNumber": 16,
+        "Name": "FRANCE 4",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/16-France4.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/16-F4.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:104:10405",
+        "LogicalChannelNumber": 17,
+        "Name": "FRANCE 5",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/17-France5.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/17-F5.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:104:10407",
+        "LogicalChannelNumber": 18,
+        "Name": "FRANCE O",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/18-France0.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/18-FO.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:104:10406",
+        "LogicalChannelNumber": 19,
+        "Name": "TV BREIZH",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/19-TVBreizh-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TVBREIZH_bl.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:9:901",
+        "LogicalChannelNumber": 20,
+        "Name": "BE 1 HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/40-Be1-HD-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/Be1-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:1:102",
+        "LogicalChannelNumber": 21,
+        "Name": "BE 1+1H",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/41-Be1-1H-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/Be1p1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:9:902",
+        "LogicalChannelNumber": 22,
+        "Name": "BE Series HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/42-BeSerieHD-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BESERIESHD-WHT.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:9:903",
+        "LogicalChannelNumber": 23,
+        "Name": "BE CINE HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/43-BeCineHD-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BECINEHD-WHT.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:12:1201",
+        "LogicalChannelNumber": 25,
+        "Name": "CINE+ P",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/25-CinePlusPremier_HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/cinePlus_premier.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:12:1202",
+        "LogicalChannelNumber": 26,
+        "Name": "CINE+ F",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/26-CinePlusFrisson_HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/cinePlus_frisson.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:12:1203",
+        "LogicalChannelNumber": 27,
+        "Name": "CINE+ C",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/27-CinePlusClassic_HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/cinePlus_classic.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:9:904",
+        "LogicalChannelNumber": 28,
+        "Name": "BE 3D",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/49-Be3D-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BE3D-WHT.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:9:905",
+        "LogicalChannelNumber": 30,
+        "Name": "VSW 1 HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport-world1.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport-world1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:9:907",
+        "LogicalChannelNumber": 31,
+        "Name": "VSW 2 HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport-world2.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport-world2.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:12:1204",
+        "LogicalChannelNumber": 32,
+        "Name": "VSW 3 HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport-world3.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport-world3.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:12:1205",
+        "LogicalChannelNumber": 33,
+        "Name": "ELEVEN Sp1 HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/33-Eleven_Sp1-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/33-Eleven_Sports1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:12:1206",
+        "LogicalChannelNumber": 34,
+        "Name": "ELEVEN Sp2 HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/34Eleven_Sp2-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/34-Eleven_Sports2.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:1:109",
+        "LogicalChannelNumber": 35,
+        "Name": "VOO SPORT 1",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport1_16bit.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:8:802",
+        "LogicalChannelNumber": 36,
+        "Name": "VOO SPORT 2",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport2-new.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport2-new.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:8:803",
+        "LogicalChannelNumber": 37,
+        "Name": "VOO SPORT 3",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport3_gimp.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport3-new.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:8:804",
+        "LogicalChannelNumber": 38,
+        "Name": "VOO SPORT 4",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport4-new.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport4-new.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:8:805",
+        "LogicalChannelNumber": 39,
+        "Name": "VOO SPORT 5",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport5-new.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport5-new.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:110:11006",
+        "LogicalChannelNumber": 42,
+        "Name": "InfoSport+",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/42-InfoSport.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/INFOSPORT.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:14:1404",
+        "LogicalChannelNumber": 43,
+        "Name": "SFR Sport2",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/43-SFR_SPORT2.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/43-SFR_SPORT2.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:15:1504",
+        "LogicalChannelNumber": 44,
+        "Name": "MCS TENNIS HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/44-MCS-TennisHD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/MCSTennis.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:105:10504",
+        "LogicalChannelNumber": 45,
+        "Name": "Equidia",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/23-EquidiaLive.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/EQUIDIA.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:15:1505",
+        "LogicalChannelNumber": 46,
+        "Name": "AB MOTEURS HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/46-AB-MOTEURS-HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/AB-MOTEURS-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:13:1304",
+        "LogicalChannelNumber": 47,
+        "Name": "Motorsport TV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/47-MotorsTV-BL.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/47-Motors-TV-2017-BL.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:17:1716",
+        "LogicalChannelNumber": 48,
+        "Name": "NAUTICAL CHANNEL",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/27-nauticalchannel.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/nautical.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:14:1405",
+        "LogicalChannelNumber": 49,
+        "Name": "SFR Sport5",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/49-SFR_SPORT5.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/49-SFR_SPORT5.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:101:10118",
+        "LogicalChannelNumber": 51,
+        "Name": "TELESAMBRE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/051-TeleSambre.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/teleSambre.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:101:10116",
+        "LogicalChannelNumber": 52,
+        "Name": "TV COM",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/052-TV-Com.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/052-TV-Com.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:101:10113",
+        "LogicalChannelNumber": 53,
+        "Name": "TV LUX",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/053-TV-Lux.png",
+              "type": "Logo"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:220:22002",
+        "LogicalChannelNumber": 54,
+        "Name": "TELEVESDRE HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/54TeleVesdre-wh.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/tele_vesdre.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:101:10119",
+        "LogicalChannelNumber": 55,
+        "Name": "NOTELE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/055-NoTele.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/NOTELE.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:101:10115",
+        "LogicalChannelNumber": 56,
+        "Name": "CANAL C",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/56Canal_C.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/canalC.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:101:10121",
+        "LogicalChannelNumber": 57,
+        "Name": "TELEMB",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/57Tele_MB.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TELEMONS-BORRINAGE_w.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:101:10120",
+        "LogicalChannelNumber": 58,
+        "Name": "ACTV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/58ACTV.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/ACTV.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:101:10114",
+        "LogicalChannelNumber": 59,
+        "Name": "MATELE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/59MA-tele.png",
+              "type": "Logo"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:101:10117",
+        "LogicalChannelNumber": 60,
+        "Name": "CANAL ZOOM",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/60CANAL_ZOOM.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/canal_zoom.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:101:10109",
+        "LogicalChannelNumber": 61,
+        "Name": "BX 1",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/061-BX1.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BX1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:101:10110",
+        "LogicalChannelNumber": 62,
+        "Name": "Bruzz",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/62-Bruzz.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/62-BRUZZ-BLC.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:109:10908",
+        "LogicalChannelNumber": 63,
+        "Name": "TV Limburg",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/0-TV-Limburg.png",
+              "type": "Logo"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:106:10602",
+        "LogicalChannelNumber": 65,
+        "Name": "Piwi+",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/65-Piwi.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/65-Piwi.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:105:10507",
+        "LogicalChannelNumber": 66,
+        "Name": "NICKELODEON",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/66-Nickelodeon.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/nickelodeon.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:104:10409",
+        "LogicalChannelNumber": 67,
+        "Name": "Boomerang",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/67Boomerang.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/boomerang.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:105:10503",
+        "LogicalChannelNumber": 68,
+        "Name": "GULLI",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/68-Gulli.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/gulli.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:105:10502",
+        "LogicalChannelNumber": 70,
+        "Name": "DISNEY CHANNEL",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/70-DisneyChannel.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/disney-channel.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:102:10202",
+        "LogicalChannelNumber": 71,
+        "Name": "Disney Jr",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/71-DisneyJunior.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/DisneyJunior.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:14:1402",
+        "LogicalChannelNumber": 72,
+        "Name": "DISNEY XD HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/72-DisneyXD-HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/DISNEY-XD-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:203:20303",
+        "LogicalChannelNumber": 73,
+        "Name": "Disney Cinema HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/73-DisneyCine-w.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/DISNEY-CINEMA-W.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:16:1602",
+        "LogicalChannelNumber": 74,
+        "Name": "TELETOON+",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/74-Teletoon.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/teletoon.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:16:1615",
+        "LogicalChannelNumber": 75,
+        "Name": "TIJI",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/75-TIJI-NEW-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/75-TIJI.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:17:1712",
+        "LogicalChannelNumber": 76,
+        "Name": "CANAL J",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/76CanalJ.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/canalJ.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:16:1607",
+        "LogicalChannelNumber": 77,
+        "Name": "BOING",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/77-Boing.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/Boing.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:16:1606",
+        "LogicalChannelNumber": 78,
+        "Name": "MANGAS",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/78-Manga-BLC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/mangas.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:16:1608",
+        "LogicalChannelNumber": 79,
+        "Name": "CARTOON NETWORK",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/79-CartoonNetwork-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/cartoonNetwork.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:106:10608",
+        "LogicalChannelNumber": 80,
+        "Name": "USHUAIA TV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/80-UshuaiaTV.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/USHUAIA.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:17:1711",
+        "LogicalChannelNumber": 81,
+        "Name": "HISTOIRE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/81Histoire.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/Histoire.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:16:1605",
+        "LogicalChannelNumber": 82,
+        "Name": "TOUTE L'HIST",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/94-TouteHIstoire.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TOUTEHISTOIRE.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:14:1406",
+        "LogicalChannelNumber": 83,
+        "Name": "Science et vie tv",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/84-Science-Vie-TV.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/SCIENCE-ET-VIE-TV.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:17:1706",
+        "LogicalChannelNumber": 84,
+        "Name": "SEASONS",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/84-SEASONS-2016.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/84-SEASONS-2016.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:16:1604",
+        "LogicalChannelNumber": 85,
+        "Name": "CHASSE ET PECHE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/88-ChassePeche.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/CHASSEETPECHE.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:13:1302",
+        "LogicalChannelNumber": 86,
+        "Name": "ANIMAUX HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/86-ANIMAUX-HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/animaux.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:13:1306",
+        "LogicalChannelNumber": 88,
+        "Name": "VOYAGE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/86-Voyage-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/88-VOYAGE-bl.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:106:10606",
+        "LogicalChannelNumber": 90,
+        "Name": "Nat Geographic",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/90-NatGeo-B-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/90-NatGeo-BLC.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:15:1502",
+        "LogicalChannelNumber": 91,
+        "Name": "NAT GEO WILD HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/91-NatGeoWild-HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/NatGeoWild.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:13:1301",
+        "LogicalChannelNumber": 92,
+        "Name": "PLANETE+ HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/92-PLaneteHD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/PLANETE-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:15:1501",
+        "LogicalChannelNumber": 93,
+        "Name": "PLANETE+ CETI HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/93-PLANETECI-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/93-PLANETECI.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:14:1401",
+        "LogicalChannelNumber": 94,
+        "Name": "PLANETE+ AETE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/94-PLANETE_AE-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/94-PLANETEAE.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:15:1506",
+        "LogicalChannelNumber": 96,
+        "Name": "SYFY HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/96-Syfy-HD-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/Syfy_HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:13:1303",
+        "LogicalChannelNumber": 97,
+        "Name": "COMEDIE+ HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/97-Comedie.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/ComediePlus.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:14:1403",
+        "LogicalChannelNumber": 98,
+        "Name": "Elle Girl",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/98-ELLE_GIRL-bl-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/98-ELLE-Girl-blc.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:15:1503",
+        "LogicalChannelNumber": 99,
+        "Name": "HD1 HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/100-HD1.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/HD1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:205:20502",
+        "LogicalChannelNumber": 100,
+        "Name": "Festival HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/FestivalHD-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/FestivalHD-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:17:1713",
+        "LogicalChannelNumber": 101,
+        "Name": "VIVOLTA",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/102-Vivolta.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/vivolta.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:17:1715",
+        "LogicalChannelNumber": 102,
+        "Name": "Fashion TV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/103-FashionTV.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/fashionTV.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:17:1704",
+        "LogicalChannelNumber": 103,
+        "Name": "E!",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/105-E-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/E_bl.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:16:1603",
+        "LogicalChannelNumber": 104,
+        "Name": "MELODY",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/104-Melody.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/MELODY.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:105:10515",
+        "LogicalChannelNumber": 105,
+        "Name": "CSTAR",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/105-CSTAR-bl-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/105-CSTAR-blc.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:17:1705",
+        "LogicalChannelNumber": 106,
+        "Name": "CBS REALITY",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/106-CBSReality.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/CBSREALITY.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:16:1601",
+        "LogicalChannelNumber": 107,
+        "Name": "EXTREME SPORTS",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/29-ExtremeSportsCB.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/EXTREMESPORTCHANNEL_w.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:16:1613",
+        "LogicalChannelNumber": 108,
+        "Name": "GAME ONE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/108-Gameone-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/GAMEONE_w.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:103:10302",
+        "LogicalChannelNumber": 110,
+        "Name": "MTV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/110-MTV-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/110-MTV-blc.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:17:1707",
+        "LogicalChannelNumber": 111,
+        "Name": "VH1 CLASSIC",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/111-VH1-ClassicW.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VH1-Classic_w.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:16:1610",
+        "LogicalChannelNumber": 112,
+        "Name": "MTV HITS",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/112-MTV-hits.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/MTV-hits.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:103:10303",
+        "LogicalChannelNumber": 114,
+        "Name": "MCM",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/114-MCM.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/Mcm.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:17:1702",
+        "LogicalChannelNumber": 115,
+        "Name": "RFM TV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/115-RFM-TV.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/RFM.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:17:1701",
+        "LogicalChannelNumber": 116,
+        "Name": "MCM TOP",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/116-MCMTop.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/mcmTop.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:17:1708",
+        "LogicalChannelNumber": 117,
+        "Name": "TRACE URBAN",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/117-TraceUrban.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/traceUrban.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:16:1611",
+        "LogicalChannelNumber": 118,
+        "Name": "M6 MUSIC",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/118-M6Music.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/M6MUSIC.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:16:1612",
+        "LogicalChannelNumber": 119,
+        "Name": "MEZZO",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/119-Mezzo.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/mezzo.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:203:20302",
+        "LogicalChannelNumber": 120,
+        "Name": "TCM HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/522-TCMCinema-HD-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TCMCINEMAHD_bl.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:13:1305",
+        "LogicalChannelNumber": 121,
+        "Name": "ACTION HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/121-ActionHD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/ActionHD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:105:10514",
+        "LogicalChannelNumber": 122,
+        "Name": "Sundance Channel",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/122-SUNDANCE_BL.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/1607-SUNDANCE_BL.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:16:1617",
+        "LogicalChannelNumber": 124,
+        "Name": "DORCEL TV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/131-DorcelTV.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/DorcelTV.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:17:1717",
+        "LogicalChannelNumber": 125,
+        "Name": "HUSTLER TV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/132-HustlerTV.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/hustlerTV.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:16:1616",
+        "LogicalChannelNumber": 126,
+        "Name": "XXL",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/133-XXL.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/xxl.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:17:1714",
+        "LogicalChannelNumber": 128,
+        "Name": "MAN-X",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/135-ManX-White.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/man-x.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:108:10813",
+        "LogicalChannelNumber": 130,
+        "Name": "Radio Contact FeelGood",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/130-RadioContact.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/radio_contact.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:108:10811",
+        "LogicalChannelNumber": 131,
+        "Name": "BEL RTL",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/430-BelRTL.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BELRTL-PNG-300DPI-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:113:11303",
+        "LogicalChannelNumber": 132,
+        "Name": "NRJ Hits",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/132-NRJHITS-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/132-NRJHITS.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:110:11008",
+        "LogicalChannelNumber": 133,
+        "Name": "PureVision",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/tnpurevision.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/purevision.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:101:10104",
+        "LogicalChannelNumber": 138,
+        "Name": "AB4",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/15AB4.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/ab4.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:103:10304",
+        "LogicalChannelNumber": 139,
+        "Name": "M6 BOUTIQUE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/139-M6B-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/139-M6B.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:101:10105",
+        "LogicalChannelNumber": 140,
+        "Name": "LCI",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/140-LCI.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/lci.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:103:10307",
+        "LogicalChannelNumber": 141,
+        "Name": "EURONEWS",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/141-Euronews-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/141-EURONEWS.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:104:10408",
+        "LogicalChannelNumber": 142,
+        "Name": "FRANCE 24",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/142-France24.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/fr24.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:110:11007",
+        "LogicalChannelNumber": 143,
+        "Name": "CANAL Z",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/143-CanalZ-BLC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/CANALZBL.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:113:11301",
+        "LogicalChannelNumber": 144,
+        "Name": "KTO",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/144-KTO.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/144-KTO.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:17:1710",
+        "LogicalChannelNumber": 145,
+        "Name": "BFM TV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/145BFMTV.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BFMTV.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:17:1703",
+        "LogicalChannelNumber": 146,
+        "Name": "CNews",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/146-CNEWS.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/146-CNEWS.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:17:1709",
+        "LogicalChannelNumber": 147,
+        "Name": "BLOOMBERG",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/147-Bloomberg-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/147-Bloomberg-BLANC.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:101:10101",
+        "LogicalChannelNumber": 150,
+        "Name": "EEN",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/150Een.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/een.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:101:10102",
+        "LogicalChannelNumber": 151,
+        "Name": "Canvas",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/151Canvas.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/CANVAS.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:110:11001",
+        "LogicalChannelNumber": 152,
+        "Name": "KETNET",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/152Ketnet.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/152-ketnet.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:109:10902",
+        "LogicalChannelNumber": 154,
+        "Name": "VIER",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/154-Vier-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/vier-1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:109:10905",
+        "LogicalChannelNumber": 155,
+        "Name": "VIJF",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/155-Vijf-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/vijf-1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:107:10709",
+        "LogicalChannelNumber": 156,
+        "Name": "VITAYA",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/156Vitaya.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/Vitaya-blc.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:109:10907",
+        "LogicalChannelNumber": 157,
+        "Name": "ACTUA TV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/157-ActuaTV-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/actuaTV.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:109:10904",
+        "LogicalChannelNumber": 158,
+        "Name": "KANAAL Z",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/158-KanaalZ-BLC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/kanaalZ.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:112:11203",
+        "LogicalChannelNumber": 159,
+        "Name": "ElevenSp1 HD NL",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/33-Eleven_Sp1-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/33-Eleven_Sports1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:109:10903",
+        "LogicalChannelNumber": 160,
+        "Name": "VTM",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/160-VTM.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VTM.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:109:10901",
+        "LogicalChannelNumber": 161,
+        "Name": "Q2",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/161-Q2-blanc-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/161-Q2_blc.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:109:10906",
+        "LogicalChannelNumber": 162,
+        "Name": "VTM KZOOM",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/162-VTMKZoom.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/vtmKzoom.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:107:10704",
+        "LogicalChannelNumber": 163,
+        "Name": "Kadet",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/163-KADET.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/KADET.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:106:10601",
+        "LogicalChannelNumber": 166,
+        "Name": "NPO 1",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/166-NPO_TV1.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/NPO_TV1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:102:10207",
+        "LogicalChannelNumber": 167,
+        "Name": "NPO 2",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/167-NPO_TV2.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/NPO_TV2.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:109:10909",
+        "LogicalChannelNumber": 168,
+        "Name": "NPO 3",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/168-NPO_TV3.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/NPO_TV3.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:110:11003",
+        "LogicalChannelNumber": 170,
+        "Name": "ARD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/170-ARD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/ard.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:102:10204",
+        "LogicalChannelNumber": 171,
+        "Name": "ZDF",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/171-ZDF.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/ZDF.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:111:11104",
+        "LogicalChannelNumber": 172,
+        "Name": "RTL+",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/172RTLPlus.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/RTLplus.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:111:11105",
+        "LogicalChannelNumber": 173,
+        "Name": "KIKA",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/173-KiKa.png",
+              "type": "Logo"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:111:11101",
+        "LogicalChannelNumber": 174,
+        "Name": "WDR",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/174-WDR.png",
+              "type": "Logo"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:111:11102",
+        "LogicalChannelNumber": 175,
+        "Name": "SWR",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/SWR_w.png",
+              "type": "BoxCover"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/175-SWR-BLANC.png",
+              "type": "Logo"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:111:11103",
+        "LogicalChannelNumber": 176,
+        "Name": "SAT1",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/176-SAT1.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/sat_1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:111:11106",
+        "LogicalChannelNumber": 177,
+        "Name": "PRO7",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/177-PRO7.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/PRO7-PNG-300DPI-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:110:11005",
+        "LogicalChannelNumber": 178,
+        "Name": "BRF-TV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/178BRF.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BRF.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:111:11107",
+        "LogicalChannelNumber": 179,
+        "Name": "Offener Kanal",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/OffenerKanal.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:103:10305",
+        "LogicalChannelNumber": 180,
+        "Name": "BBC 1",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/180-BBCOne.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/bbc1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:103:10308",
+        "LogicalChannelNumber": 181,
+        "Name": "BBC 2",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/181-BBCTwo.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/bbc2.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:103:10309",
+        "LogicalChannelNumber": 182,
+        "Name": "CBBC/BBC 3",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/182-BBCThree.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/bbc3.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:103:10310",
+        "LogicalChannelNumber": 183,
+        "Name": "CBEEBIES/BBC 4",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/183-BBCFour.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/bbc4.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:102:10205",
+        "LogicalChannelNumber": 185,
+        "Name": "CNBC",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/185-CNBC-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/cnbc.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:103:10301",
+        "LogicalChannelNumber": 186,
+        "Name": "CNN",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/186-CNN-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/cnn.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:107:10703",
+        "LogicalChannelNumber": 187,
+        "Name": "BBC WORLD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/187-BBCWorld.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/bbc_world.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:112:11201",
+        "LogicalChannelNumber": 188,
+        "Name": "AL JAZEERA ENG",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/188-AlJazeera.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/aljazeera.jpg",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:112:11202",
+        "LogicalChannelNumber": 189,
+        "Name": "Israeli Network",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/189-IsraeliNetwork.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/ISRAELINETWORK-PNG-300DPI-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:102:10203",
+        "LogicalChannelNumber": 190,
+        "Name": "RAI 1",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/190-Rai1.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/rai1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:106:10605",
+        "LogicalChannelNumber": 192,
+        "Name": "RAI 3",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/192-Rai3.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/rai-tre1.jpg",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:106:10604",
+        "LogicalChannelNumber": 193,
+        "Name": "MEDIASET IT",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/193-Mediasetitalia.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/Mediaset_Italia.PNG",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:102:10206",
+        "LogicalChannelNumber": 194,
+        "Name": "TVE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/194-TVE-new.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TVE-new.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:102:10208",
+        "LogicalChannelNumber": 195,
+        "Name": "CANAL 24 HORAS",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/195-24horas.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/Canal24horas.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:106:10607",
+        "LogicalChannelNumber": 196,
+        "Name": "RTP Internacional",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/196-RTPI-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/rtpi.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:102:10209",
+        "LogicalChannelNumber": 198,
+        "Name": "AL AOULA",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/198-AlAoula-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/alAloula.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:102:10201",
+        "LogicalChannelNumber": 199,
+        "Name": "TRT",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/199-TRT.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/trt.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:1:107",
+        "LogicalChannelNumber": 220,
+        "Name": "BE 1",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/410-Be1-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BE1-WHT.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:1:104",
+        "LogicalChannelNumber": 222,
+        "Name": "BE SERIES",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/412-BeSerie-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BeSerie.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:1:108",
+        "LogicalChannelNumber": 223,
+        "Name": "BE CINE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/413-BeCine-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BECINE-WHT.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:1:105",
+        "LogicalChannelNumber": 230,
+        "Name": "VSW 1",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport-world1.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport-world1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:1:106",
+        "LogicalChannelNumber": 231,
+        "Name": "VSW 2",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport-world2.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport-world2.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:8:801",
+        "LogicalChannelNumber": 232,
+        "Name": "VSW 3",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport-world3.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport-world3.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:110:11004",
+        "LogicalChannelNumber": 233,
+        "Name": "ElevenSp 1",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/33-Eleven_Sp1-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/33-Eleven_Sports1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:110:11009",
+        "LogicalChannelNumber": 234,
+        "Name": "Eleven Sp 2",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/34Eleven_Sp2-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/34-Eleven_Sports2.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:9:906",
+        "LogicalChannelNumber": 235,
+        "Name": "VOO SPORT HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/VOOsport1_16bit.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VOOsport1HD-new.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:101:10111",
+        "LogicalChannelNumber": 250,
+        "Name": "RTC TELE LIEGE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/050-RTC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/rtc.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:101:10112",
+        "LogicalChannelNumber": 254,
+        "Name": "TELEVESDRE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/54TeleVesdre-wh.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/tele_vesdre.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": true
+      },
+      {
+        "id": "1:16:1609",
+        "LogicalChannelNumber": 320,
+        "Name": "TCM CINEMA",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/124-TCMCInema-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TCMCIN-WHT.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:205:20501",
+        "LogicalChannelNumber": 400,
+        "Name": "Festival 4K",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/Festival4K-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/Festival4K-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:105:10508",
+        "LogicalChannelNumber": 420,
+        "Name": "LA PREMIERE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/420LaPremiere.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/LAPREMIERE-PNG-300DPI-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:105:10511",
+        "LogicalChannelNumber": 421,
+        "Name": "VIVACITE",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/421Vivacite.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VIVACITE-PNG-300DPI-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:105:10510",
+        "LogicalChannelNumber": 422,
+        "Name": "MUSIQ3",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/422Music3.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/MUSIC3.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:105:10513",
+        "LogicalChannelNumber": 423,
+        "Name": "PURE FM",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/423PureFM.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/PUREFM.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:105:10509",
+        "LogicalChannelNumber": 424,
+        "Name": "CLASSIC 21",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/424Classic21.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/CLASSIC21.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:105:10512",
+        "LogicalChannelNumber": 425,
+        "Name": "BRF",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/425-BRF.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BRF.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:113:11302",
+        "LogicalChannelNumber": 430,
+        "Name": "Bel RTL TV",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/131-belRTL.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/BELRTL-PNG-300DPI-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:105:10505",
+        "LogicalChannelNumber": 431,
+        "Name": "Radio Contact",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/431Radio_Contact.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/radio_contact.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:108:10815",
+        "LogicalChannelNumber": 432,
+        "Name": "Contact RNB",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/432-ContactRNB.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/CONTACTRNB-PNG-300DPI-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:108:10812",
+        "LogicalChannelNumber": 435,
+        "Name": "MINT",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/435-MintRadio.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/MINT-PNG-300DPI-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:105:10516",
+        "LogicalChannelNumber": 436,
+        "Name": "DH RADIO",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/436-DHRadio.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/DHRADIO-PNG-300DPI-115x115.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:107:10701",
+        "LogicalChannelNumber": 440,
+        "Name": "Radio Judaica",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/440-RadioJudaica.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/JUDAICA.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:107:10707",
+        "LogicalChannelNumber": 450,
+        "Name": "Q Music",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/450Q_Music.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/Q-Music.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:107:10708",
+        "LogicalChannelNumber": 451,
+        "Name": "Joe",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/451-JOE-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/451-Joe.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:201:20101",
+        "LogicalChannelNumber": 501,
+        "Name": "LA UNE HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/501-LaUne-HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/la_une-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:201:20102",
+        "LogicalChannelNumber": 502,
+        "Name": "LA DEUX HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/502-LaDeux-HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/la_deux-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:201:20103",
+        "LogicalChannelNumber": 503,
+        "Name": "LA TROIS HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/503-LaTrois-HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/la_trois-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:202:20201",
+        "LogicalChannelNumber": 504,
+        "Name": "RTL-TVI HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/504-RTLTVI-BL-92x43.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/504-RTLTVIHD_bl.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:202:20202",
+        "LogicalChannelNumber": 505,
+        "Name": "CLUB RTL HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/505-ClubRTL-HD-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/ClubRTL-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:202:20203",
+        "LogicalChannelNumber": 506,
+        "Name": "PLUG RTL HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/506-PlugRTL-HD-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/plug_rtl-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:201:20104",
+        "LogicalChannelNumber": 507,
+        "Name": "TF1 HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/507-TF1-HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/tf1-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:203:20306",
+        "LogicalChannelNumber": 508,
+        "Name": "France 2 HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/508-France2-HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/FR2-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:202:20204",
+        "LogicalChannelNumber": 510,
+        "Name": "ARTE BELGIQUE HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/510ArteHD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/ARTEHD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:201:20105",
+        "LogicalChannelNumber": 513,
+        "Name": "13E RUE HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/513-13THRue-HD-BLANC.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/13eme_Rue-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:202:20205",
+        "LogicalChannelNumber": 524,
+        "Name": "USHUAIA TV HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/524ushuaia_TV_HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/UshuaiaTV-HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:220:22001",
+        "LogicalChannelNumber": 550,
+        "Name": "RTC HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/50rtc.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/rtc.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:220:22003",
+        "LogicalChannelNumber": 555,
+        "Name": "Notélé HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/055-NoTele.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/NOTELE.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:107:10706",
+        "LogicalChannelNumber": 560,
+        "Name": "VTM HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/560-VTM-HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/VTM.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:203:20301",
+        "LogicalChannelNumber": 580,
+        "Name": "BBC One HD",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/TN/580-BBC-One_HD.png",
+              "type": "Logo"
+            },
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/580-BBC-ONE_HD.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:999:99901",
+        "LogicalChannelNumber": 991,
+        "Name": "EU Qualifiers 1",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/EUQual_115px_1.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:999:99902",
+        "LogicalChannelNumber": 992,
+        "Name": "EU Qualifiers 2",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/EUQual_115px_2.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:999:99903",
+        "LogicalChannelNumber": 993,
+        "Name": "EU Qualifiers 3",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/EUQual_115px_3.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:999:99904",
+        "LogicalChannelNumber": 994,
+        "Name": "EU Qualifiers 4",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/EUQual_115px_4.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:999:99905",
+        "LogicalChannelNumber": 995,
+        "Name": "EU Qualifiers 5",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/EUQual_115px_5.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:999:99906",
+        "LogicalChannelNumber": 996,
+        "Name": "EU Qualifiers 6",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/EUQual_115px_6.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:999:99907",
+        "LogicalChannelNumber": 997,
+        "Name": "EU Qualifiers 7",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/EUQual_115px_7.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:999:99908",
+        "LogicalChannelNumber": 998,
+        "Name": "EU Qualifiers 8",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/EUQual_115px_8.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      },
+      {
+        "id": "1:999:99909",
+        "LogicalChannelNumber": 999,
+        "Name": "EU Qualifiers 9",
+        "Pictures": {
+          "Picture": [
+            {
+              "Value":
+                "https://images.voomotion.be/Images/channel_logos/EUQual_115px_9.png",
+              "type": "BoxCover"
+            }
+          ]
+        },
+        "IsViewableOnCpe": false
+      }
+    ]
+  }
+}

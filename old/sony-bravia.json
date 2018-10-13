@@ -1,0 +1,193 @@
+{
+    "uuid:167309d5-3f9e-eb4f-6963-823216a2ed90::upnp:rootdevice": {
+        "CACHE-CONTROL": "max-age=1800",
+        "DATE": "Thu, 31 Aug 2017 21:52:00 GMT",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:8008/ssdp/device-desc.xml",
+        "OPT": "\"http://schemas.upnp.org/upnp/1/0/\"; ns=01",
+        "01-NLS": "4e3cc2a0-1dd2-11b2-a0e3-cd540d2c1d30",
+        "SERVER": "Linux/3.10.79, UPnP/1.0, Portable SDK for UPnP devices/1.6.18",
+        "X-USER-AGENT": "redsonic",
+        "ST": "upnp:rootdevice",
+        "USN": "uuid:167309d5-3f9e-eb4f-6963-823216a2ed90::upnp:rootdevice",
+        "BOOTID.UPNP.ORG": "0",
+        "CONFIGID.UPNP.ORG": "1"
+    },
+    "uuid:167309d5-3f9e-eb4f-6963-823216a2ed90": {
+        "CACHE-CONTROL": "max-age=1800",
+        "DATE": "Thu, 31 Aug 2017 21:52:00 GMT",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:8008/ssdp/device-desc.xml",
+        "OPT": "\"http://schemas.upnp.org/upnp/1/0/\"; ns=01",
+        "01-NLS": "4e3cc2a0-1dd2-11b2-a0e3-cd540d2c1d30",
+        "SERVER": "Linux/3.10.79, UPnP/1.0, Portable SDK for UPnP devices/1.6.18",
+        "X-USER-AGENT": "redsonic",
+        "ST": "uuid:167309d5-3f9e-eb4f-6963-823216a2ed90",
+        "USN": "uuid:167309d5-3f9e-eb4f-6963-823216a2ed90",
+        "BOOTID.UPNP.ORG": "0",
+        "CONFIGID.UPNP.ORG": "1"
+    },
+    "uuid:167309d5-3f9e-eb4f-6963-823216a2ed90::urn:dial-multiscreen-org:device:dial:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "DATE": "Thu, 31 Aug 2017 21:52:00 GMT",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:8008/ssdp/device-desc.xml",
+        "OPT": "\"http://schemas.upnp.org/upnp/1/0/\"; ns=01",
+        "01-NLS": "4e3cc2a0-1dd2-11b2-a0e3-cd540d2c1d30",
+        "SERVER": "Linux/3.10.79, UPnP/1.0, Portable SDK for UPnP devices/1.6.18",
+        "X-USER-AGENT": "redsonic",
+        "ST": "urn:dial-multiscreen-org:device:dial:1",
+        "USN": "uuid:167309d5-3f9e-eb4f-6963-823216a2ed90::urn:dial-multiscreen-org:device:dial:1",
+        "BOOTID.UPNP.ORG": "0",
+        "CONFIGID.UPNP.ORG": "1"
+    },
+    "uuid:167309d5-3f9e-eb4f-6963-823216a2ed90::urn:dial-multiscreen-org:service:dial:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "DATE": "Thu, 31 Aug 2017 21:52:00 GMT",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:8008/ssdp/device-desc.xml",
+        "OPT": "\"http://schemas.upnp.org/upnp/1/0/\"; ns=01",
+        "01-NLS": "4e3cc2a0-1dd2-11b2-a0e3-cd540d2c1d30",
+        "SERVER": "Linux/3.10.79, UPnP/1.0, Portable SDK for UPnP devices/1.6.18",
+        "X-USER-AGENT": "redsonic",
+        "ST": "urn:dial-multiscreen-org:service:dial:1",
+        "USN": "uuid:167309d5-3f9e-eb4f-6963-823216a2ed90::urn:dial-multiscreen-org:service:dial:1",
+        "BOOTID.UPNP.ORG": "0",
+        "CONFIGID.UPNP.ORG": "1"
+    },
+    "uuid:30b4e21a-e36f-4639-9b05-e667eaef7d99::upnp:rootdevice": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:41695/dd.xml",
+        "SERVER": "FedoraCore/2 UPnP/1.0 MINT-X/1.8.1",
+        "ST": "upnp:rootdevice",
+        "USN": "uuid:30b4e21a-e36f-4639-9b05-e667eaef7d99::upnp:rootdevice"
+    },
+    "uuid:30b4e21a-e36f-4639-9b05-e667eaef7d99": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:41695/dd.xml",
+        "SERVER": "FedoraCore/2 UPnP/1.0 MINT-X/1.8.1",
+        "ST": "uuid:30b4e21a-e36f-4639-9b05-e667eaef7d99",
+        "USN": "uuid:30b4e21a-e36f-4639-9b05-e667eaef7d99"
+    },
+    "uuid:30b4e21a-e36f-4639-9b05-e667eaef7d99::urn:schemas-upnp-org:device:Basic:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:41695/dd.xml",
+        "SERVER": "FedoraCore/2 UPnP/1.0 MINT-X/1.8.1",
+        "ST": "urn:schemas-upnp-org:device:Basic:1",
+        "USN": "uuid:30b4e21a-e36f-4639-9b05-e667eaef7d99::urn:schemas-upnp-org:device:Basic:1"
+    },
+    "uuid:30b4e21a-e36f-4639-9b05-e667eaef7d99::urn:dial-multiscreen-org:service:dial:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:41695/dd.xml",
+        "SERVER": "FedoraCore/2 UPnP/1.0 MINT-X/1.8.1",
+        "ST": "urn:dial-multiscreen-org:service:dial:1",
+        "USN": "uuid:30b4e21a-e36f-4639-9b05-e667eaef7d99::urn:dial-multiscreen-org:service:dial:1"
+    },
+    "uuid:b8ea2234-4776-42d5-8e08-b02f86b27e8c::upnp:rootdevice": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:42185/sony/webapi/ssdp/dd.xml",
+        "SERVER": "FedoraCore/2 UPnP/1.0 MINT-X/1.8.1",
+        "ST": "upnp:rootdevice",
+        "USN": "uuid:b8ea2234-4776-42d5-8e08-b02f86b27e8c::upnp:rootdevice"
+    },
+    "uuid:b8ea2234-4776-42d5-8e08-b02f86b27e8c": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:42185/sony/webapi/ssdp/dd.xml",
+        "SERVER": "FedoraCore/2 UPnP/1.0 MINT-X/1.8.1",
+        "ST": "uuid:b8ea2234-4776-42d5-8e08-b02f86b27e8c",
+        "USN": "uuid:b8ea2234-4776-42d5-8e08-b02f86b27e8c"
+    },
+    "uuid:b8ea2234-4776-42d5-8e08-b02f86b27e8c::urn:schemas-upnp-org:device:Basic:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:42185/sony/webapi/ssdp/dd.xml",
+        "SERVER": "FedoraCore/2 UPnP/1.0 MINT-X/1.8.1",
+        "ST": "urn:schemas-upnp-org:device:Basic:1",
+        "USN": "uuid:b8ea2234-4776-42d5-8e08-b02f86b27e8c::urn:schemas-upnp-org:device:Basic:1"
+    },
+    "uuid:b8ea2234-4776-42d5-8e08-b02f86b27e8c::urn:schemas-sony-com:service:ScalarWebAPI:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:42185/sony/webapi/ssdp/dd.xml",
+        "SERVER": "FedoraCore/2 UPnP/1.0 MINT-X/1.8.1",
+        "ST": "urn:schemas-sony-com:service:ScalarWebAPI:1",
+        "USN": "uuid:b8ea2234-4776-42d5-8e08-b02f86b27e8c::urn:schemas-sony-com:service:ScalarWebAPI:1"
+    },
+    "uuid:b8ea2234-4776-42d5-8e08-b02f86b27e8c::urn:schemas-sony-com:service:IRCC:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:42185/sony/webapi/ssdp/dd.xml",
+        "SERVER": "FedoraCore/2 UPnP/1.0 MINT-X/1.8.1",
+        "ST": "urn:schemas-sony-com:service:IRCC:1",
+        "USN": "uuid:b8ea2234-4776-42d5-8e08-b02f86b27e8c::urn:schemas-sony-com:service:IRCC:1"
+    },
+    "uuid:23456789-1234-1010-8000-104fa8c7f1c9::upnp:rootdevice": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:52323/MediaRenderer.xml",
+        "SERVER": "Android/1.6 UPnP/1.0 Huey Sample DMR/0.1",
+        "ST": "upnp:rootdevice",
+        "USN": "uuid:23456789-1234-1010-8000-104fa8c7f1c9::upnp:rootdevice",
+        "X-AV-SERVER-INFO": "av=5.0; hn=\"\"; cn=\"Sony Corporation\"; mn=\"Huey Sample DMR\"; mv=\"0.1\";"
+    },
+    "uuid:23456789-1234-1010-8000-104fa8c7f1c9": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:52323/MediaRenderer.xml",
+        "SERVER": "Android/1.6 UPnP/1.0 Huey Sample DMR/0.1",
+        "ST": "uuid:23456789-1234-1010-8000-104fa8c7f1c9",
+        "USN": "uuid:23456789-1234-1010-8000-104fa8c7f1c9",
+        "X-AV-SERVER-INFO": "av=5.0; hn=\"\"; cn=\"Sony Corporation\"; mn=\"Huey Sample DMR\"; mv=\"0.1\";"
+    },
+    "uuid:23456789-1234-1010-8000-104fa8c7f1c9::urn:schemas-upnp-org:device:MediaRenderer:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:52323/MediaRenderer.xml",
+        "SERVER": "Android/1.6 UPnP/1.0 Huey Sample DMR/0.1",
+        "ST": "urn:schemas-upnp-org:device:MediaRenderer:1",
+        "USN": "uuid:23456789-1234-1010-8000-104fa8c7f1c9::urn:schemas-upnp-org:device:MediaRenderer:1",
+        "X-AV-SERVER-INFO": "av=5.0; hn=\"\"; cn=\"Sony Corporation\"; mn=\"Huey Sample DMR\"; mv=\"0.1\";"
+    },
+    "uuid:23456789-1234-1010-8000-104fa8c7f1c9::urn:schemas-upnp-org:service:RenderingControl:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:52323/MediaRenderer.xml",
+        "SERVER": "Android/1.6 UPnP/1.0 Huey Sample DMR/0.1",
+        "ST": "urn:schemas-upnp-org:service:RenderingControl:1",
+        "USN": "uuid:23456789-1234-1010-8000-104fa8c7f1c9::urn:schemas-upnp-org:service:RenderingControl:1",
+        "X-AV-SERVER-INFO": "av=5.0; hn=\"\"; cn=\"Sony Corporation\"; mn=\"Huey Sample DMR\"; mv=\"0.1\";"
+    },
+    "uuid:23456789-1234-1010-8000-104fa8c7f1c9::urn:schemas-upnp-org:service:ConnectionManager:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:52323/MediaRenderer.xml",
+        "SERVER": "Android/1.6 UPnP/1.0 Huey Sample DMR/0.1",
+        "ST": "urn:schemas-upnp-org:service:ConnectionManager:1",
+        "USN": "uuid:23456789-1234-1010-8000-104fa8c7f1c9::urn:schemas-upnp-org:service:ConnectionManager:1",
+        "X-AV-SERVER-INFO": "av=5.0; hn=\"\"; cn=\"Sony Corporation\"; mn=\"Huey Sample DMR\"; mv=\"0.1\";"
+    },
+    "uuid:23456789-1234-1010-8000-104fa8c7f1c9::urn:schemas-upnp-org:service:AVTransport:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:52323/MediaRenderer.xml",
+        "SERVER": "Android/1.6 UPnP/1.0 Huey Sample DMR/0.1",
+        "ST": "urn:schemas-upnp-org:service:AVTransport:1",
+        "USN": "uuid:23456789-1234-1010-8000-104fa8c7f1c9::urn:schemas-upnp-org:service:AVTransport:1",
+        "X-AV-SERVER-INFO": "av=5.0; hn=\"\"; cn=\"Sony Corporation\"; mn=\"Huey Sample DMR\"; mv=\"0.1\";"
+    },
+    "uuid:23456789-1234-1010-8000-104fa8c7f1c9::urn:schemas-rvualliance-org:service:StreamSplicing:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "EXT": "",
+        "LOCATION": "http://192.168.0.10:52323/MediaRenderer.xml",
+        "SERVER": "Android/1.6 UPnP/1.0 Huey Sample DMR/0.1",
+        "ST": "urn:schemas-rvualliance-org:service:StreamSplicing:1",
+        "USN": "uuid:23456789-1234-1010-8000-104fa8c7f1c9::urn:schemas-rvualliance-org:service:StreamSplicing:1",
+        "X-AV-SERVER-INFO": "av=5.0; hn=\"\"; cn=\"Sony Corporation\"; mn=\"Huey Sample DMR\"; mv=\"0.1\";"
+    }
+}

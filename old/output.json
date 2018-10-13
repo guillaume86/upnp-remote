@@ -1,0 +1,188 @@
+{
+    "uuid:e8d04e54-108e-41c2-a256-90e7ab04c06c::upnp:rootdevice": {
+        "CACHE-CONTROL": "max-age=1800",
+        "DATE": "Fri, 01 Sep 2017 17:39:31 GMT",
+        "EXT": "",
+        "LOCATION": "http://192.168.1.11:8008/ssdp/device-desc.xml",
+        "OPT": "\"http://schemas.upnp.org/upnp/1/0/\"; ns=01",
+        "01-NLS": "03262fd6-1dd2-11b2-abf1-d9a4b3f0c23f",
+        "SERVER": "Linux/3.8.13+, UPnP/1.0, Portable SDK for UPnP devices/1.6.18",
+        "X-USER-AGENT": "redsonic",
+        "ST": "upnp:rootdevice",
+        "USN": "uuid:e8d04e54-108e-41c2-a256-90e7ab04c06c::upnp:rootdevice",
+        "BOOTID.UPNP.ORG": "1838",
+        "CONFIGID.UPNP.ORG": "4"
+    },
+    "uuid:e8d04e54-108e-41c2-a256-90e7ab04c06c": {
+        "CACHE-CONTROL": "max-age=1800",
+        "DATE": "Fri, 01 Sep 2017 17:39:31 GMT",
+        "EXT": "",
+        "LOCATION": "http://192.168.1.11:8008/ssdp/device-desc.xml",
+        "OPT": "\"http://schemas.upnp.org/upnp/1/0/\"; ns=01",
+        "01-NLS": "03262fd6-1dd2-11b2-abf1-d9a4b3f0c23f",
+        "SERVER": "Linux/3.8.13+, UPnP/1.0, Portable SDK for UPnP devices/1.6.18",
+        "X-USER-AGENT": "redsonic",
+        "ST": "uuid:e8d04e54-108e-41c2-a256-90e7ab04c06c",
+        "USN": "uuid:e8d04e54-108e-41c2-a256-90e7ab04c06c",
+        "BOOTID.UPNP.ORG": "1838",
+        "CONFIGID.UPNP.ORG": "4"
+    },
+    "uuid:e8d04e54-108e-41c2-a256-90e7ab04c06c::urn:dial-multiscreen-org:device:dial:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "DATE": "Fri, 01 Sep 2017 17:39:31 GMT",
+        "EXT": "",
+        "LOCATION": "http://192.168.1.11:8008/ssdp/device-desc.xml",
+        "OPT": "\"http://schemas.upnp.org/upnp/1/0/\"; ns=01",
+        "01-NLS": "03262fd6-1dd2-11b2-abf1-d9a4b3f0c23f",
+        "SERVER": "Linux/3.8.13+, UPnP/1.0, Portable SDK for UPnP devices/1.6.18",
+        "X-USER-AGENT": "redsonic",
+        "ST": "urn:dial-multiscreen-org:device:dial:1",
+        "USN": "uuid:e8d04e54-108e-41c2-a256-90e7ab04c06c::urn:dial-multiscreen-org:device:dial:1",
+        "BOOTID.UPNP.ORG": "1838",
+        "CONFIGID.UPNP.ORG": "4"
+    },
+    "uuid:e8d04e54-108e-41c2-a256-90e7ab04c06c::urn:dial-multiscreen-org:service:dial:1": {
+        "CACHE-CONTROL": "max-age=1800",
+        "DATE": "Fri, 01 Sep 2017 17:39:31 GMT",
+        "EXT": "",
+        "LOCATION": "http://192.168.1.11:8008/ssdp/device-desc.xml",
+        "OPT": "\"http://schemas.upnp.org/upnp/1/0/\"; ns=01",
+        "01-NLS": "03262fd6-1dd2-11b2-abf1-d9a4b3f0c23f",
+        "SERVER": "Linux/3.8.13+, UPnP/1.0, Portable SDK for UPnP devices/1.6.18",
+        "X-USER-AGENT": "redsonic",
+        "ST": "urn:dial-multiscreen-org:service:dial:1",
+        "USN": "uuid:e8d04e54-108e-41c2-a256-90e7ab04c06c::urn:dial-multiscreen-org:service:dial:1",
+        "BOOTID.UPNP.ORG": "1838",
+        "CONFIGID.UPNP.ORG": "4"
+    },
+    "uuid:f59cfa68-e4b1-320b-80ea-09798cb09480::upnp:rootdevice": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "upnp:rootdevice",
+        "USN": "uuid:f59cfa68-e4b1-320b-80ea-09798cb09480::upnp:rootdevice"
+    },
+    "uuid:f59cfa68-e4b1-320b-80ea-09798cb09480::urn:schemas-upnp-org:device:InternetGatewayDevice:1": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "urn:schemas-upnp-org:device:InternetGatewayDevice:1",
+        "USN": "uuid:f59cfa68-e4b1-320b-80ea-09798cb09480::urn:schemas-upnp-org:device:InternetGatewayDevice:1"
+    },
+    "uuid:f59cfa68-e4b1-320b-80ea-09798cb09480": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "uuid:f59cfa68-e4b1-320b-80ea-09798cb09480",
+        "USN": "uuid:f59cfa68-e4b1-320b-80ea-09798cb09480"
+    },
+    "uuid:f59cfa68-e4b1-320b-80ea-09798cb09480::urn:schemas-upnp-org:service:Layer3Forwarding:1": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "urn:schemas-upnp-org:service:Layer3Forwarding:1",
+        "USN": "uuid:f59cfa68-e4b1-320b-80ea-09798cb09480::urn:schemas-upnp-org:service:Layer3Forwarding:1"
+    },
+    "uuid:c3319145-79bb-350e-89aa-76564b377b51::urn:schemas-upnp-org:device:WANDevice:1": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "urn:schemas-upnp-org:device:WANDevice:1",
+        "USN": "uuid:c3319145-79bb-350e-89aa-76564b377b51::urn:schemas-upnp-org:device:WANDevice:1"
+    },
+    "uuid:c3319145-79bb-350e-89aa-76564b377b51": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "uuid:c3319145-79bb-350e-89aa-76564b377b51",
+        "USN": "uuid:c3319145-79bb-350e-89aa-76564b377b51"
+    },
+    "uuid:c3319145-79bb-350e-89aa-76564b377b51::urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1",
+        "USN": "uuid:c3319145-79bb-350e-89aa-76564b377b51::urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1"
+    },
+    "uuid:d396e593-f99f-3ec4-8a68-bcbb02720911::urn:schemas-upnp-org:device:WANConnectionDevice:1": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "urn:schemas-upnp-org:device:WANConnectionDevice:1",
+        "USN": "uuid:d396e593-f99f-3ec4-8a68-bcbb02720911::urn:schemas-upnp-org:device:WANConnectionDevice:1"
+    },
+    "uuid:d396e593-f99f-3ec4-8a68-bcbb02720911": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "uuid:d396e593-f99f-3ec4-8a68-bcbb02720911",
+        "USN": "uuid:d396e593-f99f-3ec4-8a68-bcbb02720911"
+    },
+    "uuid:d396e593-f99f-3ec4-8a68-bcbb02720911::urn:schemas-upnp-org:service:WANPPPConnection:1": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "urn:schemas-upnp-org:service:WANPPPConnection:1",
+        "USN": "uuid:d396e593-f99f-3ec4-8a68-bcbb02720911::urn:schemas-upnp-org:service:WANPPPConnection:1"
+    },
+    "uuid:f677a851-7062-36a3-99c1-cb8f89788dfb::urn:schemas-upnp-org:device:WANConnectionDevice:1": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "urn:schemas-upnp-org:device:WANConnectionDevice:1",
+        "USN": "uuid:f677a851-7062-36a3-99c1-cb8f89788dfb::urn:schemas-upnp-org:device:WANConnectionDevice:1"
+    },
+    "uuid:f677a851-7062-36a3-99c1-cb8f89788dfb": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "uuid:f677a851-7062-36a3-99c1-cb8f89788dfb",
+        "USN": "uuid:f677a851-7062-36a3-99c1-cb8f89788dfb"
+    },
+    "uuid:f677a851-7062-36a3-99c1-cb8f89788dfb::urn:schemas-upnp-org:service:WANIPConnection:1": {
+        "DATE": "Fri, 01 Sep 2017 19:39:29 GMT",
+        "SERVER": "OpenRG/4.0.21.3.3.1.32.1.1.1.6 UPnP/1.0 SAGEM_LB/RG_VERSION",
+        "CONNECTION": "close",
+        "CACHE-CONTROL": "max-age=2000",
+        "LOCATION": "http://192.168.1.1:2555/upnp/f59cfa68-e4b1-320b-80ea-09798cb09480/desc.xml",
+        "EXT": "",
+        "ST": "urn:schemas-upnp-org:service:WANIPConnection:1",
+        "USN": "uuid:f677a851-7062-36a3-99c1-cb8f89788dfb::urn:schemas-upnp-org:service:WANIPConnection:1"
+    }
+}
