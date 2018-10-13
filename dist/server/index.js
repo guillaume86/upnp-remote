@@ -59,18 +59,31 @@ server.route({
 server.route({
     method: "GET",
     path: "/set-channel",
-    handler: function (request) {
-        var channel = request.query.channel;
-        var cleanChannel = channel.replace(/^sur /gi, "");
-        var result = commands_1.setChannel(cleanChannel);
-        return result;
-    },
+    handler: function (request) { return __awaiter(_this, void 0, void 0, function () {
+        var channel, cleanChannel, result, err_1;
+        return __generator(this, function (_a) {
+            switch (_a.label) {
+                case 0:
+                    _a.trys.push([0, 2, , 3]);
+                    channel = request.query.channel;
+                    cleanChannel = channel.replace(/^sur /gi, "");
+                    return [4 /*yield*/, commands_1.setChannel(cleanChannel)];
+                case 1:
+                    result = _a.sent();
+                    return [2 /*return*/, result];
+                case 2:
+                    err_1 = _a.sent();
+                    return [2 /*return*/, err_1.toString()];
+                case 3: return [2 /*return*/];
+            }
+        });
+    }); },
 });
 exports.init = function () { return __awaiter(_this, void 0, void 0, function () {
     // shut down server
     function shutdown() {
         return __awaiter(this, void 0, void 0, function () {
-            var err_1;
+            var err_2;
             return __generator(this, function (_a) {
                 switch (_a.label) {
                     case 0:
@@ -80,8 +93,8 @@ exports.init = function () { return __awaiter(_this, void 0, void 0, function ()
                         _a.sent();
                         return [3 /*break*/, 3];
                     case 2:
-                        err_1 = _a.sent();
-                        console.error(err_1);
+                        err_2 = _a.sent();
+                        console.error(err_2);
                         process.exitCode = 1;
                         return [3 /*break*/, 3];
                     case 3:

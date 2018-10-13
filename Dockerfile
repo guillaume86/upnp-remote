@@ -1,6 +1,10 @@
 # if you're doing anything beyond your local machine, please pin this to a specific version at https://hub.docker.com/_/node/
 FROM node:10.12-alpine
 
+# install git to support git dependencies in package.json
+RUN set -xe \
+  && apk add --no-cache git
+
 RUN mkdir -p /opt/app
 
 # set our node environment, either development or production

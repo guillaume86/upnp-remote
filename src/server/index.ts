@@ -18,11 +18,15 @@ server.route({
 server.route({
   method: "GET",
   path: "/set-channel",
-  handler: (request) => {
-    const { channel } = request.query as { channel: string };
-    const cleanChannel = channel.replace(/^sur /gi, "");
-    const result = setChannel(cleanChannel);
-    return result;
+  handler: async (request) => {
+    try {
+      const { channel } = request.query as { channel: string };
+      const cleanChannel = channel.replace(/^sur /gi, "");
+      const result = await setChannel(cleanChannel);
+      return result;
+    } catch (err) {
+      return err.toString();
+    }
   },
 });
 
