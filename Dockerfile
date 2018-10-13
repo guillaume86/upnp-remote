@@ -30,8 +30,8 @@ ENV PATH /opt/node_modules/.bin:$PATH
 WORKDIR /opt/app
 COPY . /opt/app
 
-# use the node user
-USER node
+# can't use the node user because volumes are mounted as root
+# USER node
 
 # if you want to use npm start instead, then use `docker run --init in production`
 # so that signals are passed properly. Note the code in index.js is needed to catch Docker signals
