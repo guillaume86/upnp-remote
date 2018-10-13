@@ -2,6 +2,7 @@
 
 - cache in ScalarWebAPIClient (port do not change, just the IP)
 - change channel with UPNP
+- docker automated build...
 
 # INFO
 
