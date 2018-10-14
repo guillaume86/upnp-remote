@@ -43,7 +43,6 @@ export function findBox(): Promise<Box | null> {
       if (found || rinfo.address === "127.0.0.1") return;
 
       if (headers.LOCATION && (await deviceIsBox(headers.LOCATION))) {
-        console.log("findBox", headers.LOCATION, headers);
         found = true;
         clearTimeout(timer);
         instance.stop();

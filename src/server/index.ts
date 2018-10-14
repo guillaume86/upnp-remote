@@ -10,8 +10,8 @@ const server = new Hapi.Server({
 server.route({
   method: "GET",
   path: "/",
-  handler: (_request, _h) => {
-    return "Hello, world!";
+  handler: () => {
+    return "upnp-remote";
   },
 });
 
@@ -25,6 +25,7 @@ server.route({
       const result = await setChannel(cleanChannel);
       return result;
     } catch (err) {
+      console.error(err);
       return err.toString();
     }
   },
