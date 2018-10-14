@@ -97,7 +97,6 @@ function findBox() {
                         _b.label = 2;
                     case 2:
                         if (_a) {
-                            console.log("findBox", headers.LOCATION, headers);
                             found = true;
                             clearTimeout(timer);
                             instance.stop();

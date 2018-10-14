@@ -52,8 +52,8 @@ var server = new Hapi.Server({
 server.route({
     method: "GET",
     path: "/",
-    handler: function (_request, _h) {
-        return "Hello, world!";
+    handler: function () {
+        return "upnp-remote";
     },
 });
 server.route({
@@ -73,6 +73,7 @@ server.route({
                     return [2 /*return*/, result];
                 case 2:
                     err_1 = _a.sent();
+                    console.error(err_1);
                     return [2 /*return*/, err_1.toString()];
                 case 3: return [2 /*return*/];
             }
