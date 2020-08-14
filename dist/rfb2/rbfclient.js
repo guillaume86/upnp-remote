@@ -5,7 +5,7 @@ var __extends = (this && this.__extends) || (function () {
             ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
             function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
         return extendStatics(d, b);
-    }
+    };
     return function (d, b) {
         extendStatics(d, b);
         function __() { this.constructor = d; }
@@ -16,6 +16,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.RfbClient = void 0;
 var events_1 = require("events");
 var net_1 = __importDefault(require("net"));
 var rfb2_1 = __importDefault(require("rfb2"));
@@ -156,6 +157,7 @@ var RfbClient = /** @class */ (function (_super) {
                         sendVncChallengeResponse_1(challenge, _this.params.password);
                     }
                     else if (_this.params.credentialsCallback) {
+                        // @ts-ignore
                         _this.params.credentialsCallback.call(_this, function (password) {
                             sendVncChallengeResponse_1(challenge, password);
                         });

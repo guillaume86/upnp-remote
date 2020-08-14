@@ -1,5 +1,6 @@
 import * as Hapi from "hapi";
 import { setChannel } from "../commands";
+import { findBox } from "../voo";
 
 const PORT = process.env.PORT || 8001;
 
@@ -24,6 +25,19 @@ server.route({
       const cleanChannel = channel.replace(/^sur /gi, "");
       const result = await setChannel(cleanChannel);
       return result;
+    } catch (err) {
+      console.error(err);
+      return err.toString();
+    }
+  },
+});
+
+server.route({
+  method: "GET",
+  path: "/box",
+  handler: async () => {
+    try {
+      return { box: await findBox() };
     } catch (err) {
       console.error(err);
       return err.toString();

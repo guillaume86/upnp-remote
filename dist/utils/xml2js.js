@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.parseString = void 0;
 var xml2js_1 = require("xml2js");
 /**
  * Promise version of xml2js parseString

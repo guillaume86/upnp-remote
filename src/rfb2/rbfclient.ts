@@ -149,6 +149,7 @@ export class RfbClient extends EventEmitter {
           if (this.params.password) {
             sendVncChallengeResponse(challenge, this.params.password);
           } else if (this.params.credentialsCallback) {
+            // @ts-ignore
             this.params.credentialsCallback.call(this, (password: string) => {
               sendVncChallengeResponse(challenge, password);
             });

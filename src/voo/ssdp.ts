@@ -10,7 +10,7 @@ interface BoxHeaders {
 
 const SEARCH_TIMEOUT = 5000;
 const BOX_SERVICE_TYPE = "urn:schemas-upnp-org:service:RemoteUIServer:1";
-// const BOX_SERVICE_TYPE = "urn:schemas-upnp-org:service:MediaRenderer:*";
+// const BOX_SERVICE_TYPE = "urn:schemas-upnp-org:service:MediaRenderer:2";
 
 async function deviceIsBox(location: string): Promise<boolean> {
   const response = await fetch(location);
@@ -35,24 +35,39 @@ async function deviceIsBox(location: string): Promise<boolean> {
  * @internal
  */
 export function findBox(): Promise<Box | null> {
-  return new Promise((resolve) => {
+  return new Promise((resolve, reject) => {
     const instance = new Client({});
     let found = false;
 
     instance.on("response", async (headers: BoxHeaders, _code, rinfo) => {
+      // if (rinfo.address === "192.168.0.12") {
+      //   console.log({ headers, _code, rinfo });
+      // }
+
       if (found || rinfo.address === "127.0.0.1") return;
 
       if (headers.LOCATION && (await deviceIsBox(headers.LOCATION))) {
         found = true;
         clearTimeout(timer);
         instance.stop();
+
+        // MediaRenderer is description{n-1}.xml
+        const locationMatch = /\/description(\d+)\.xml$/.exec(headers.LOCATION);
+        if (locationMatch?.length !== 2) {
+          return reject(
+            new Error("Location format not recognized: " + headers.LOCATION),
+          );
+        }
+        const path = locationMatch[0];
+        const descIndex = parseInt(locationMatch[1], 10);
+
         resolve({
           ip: rinfo.address,
           location: {
             RemoteUIServer: headers.LOCATION,
             MediaRenderer: headers.LOCATION.replace(
-              "description1.xml",
-              "description0.xml",
+              path,
+              `/description${descIndex - 1}.xml`,
             ),
           },
         });

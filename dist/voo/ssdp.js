@@ -1,9 +1,10 @@
 "use strict";
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
         function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
         function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
@@ -38,12 +39,13 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.findBoxCached = exports.findBox = void 0;
 var node_fetch_1 = __importDefault(require("node-fetch"));
 var node_ssdp_1 = require("node-ssdp");
 var utils_1 = require("../utils");
 var SEARCH_TIMEOUT = 5000;
 var BOX_SERVICE_TYPE = "urn:schemas-upnp-org:service:RemoteUIServer:1";
-// const BOX_SERVICE_TYPE = "urn:schemas-upnp-org:service:MediaRenderer:*";
+// const BOX_SERVICE_TYPE = "urn:schemas-upnp-org:service:MediaRenderer:2";
 function deviceIsBox(location) {
     return __awaiter(this, void 0, void 0, function () {
         var response, descriptionXml, description, device, modelDescription;
@@ -79,14 +81,17 @@ function deviceIsBox(location) {
  */
 function findBox() {
     var _this = this;
-    return new Promise(function (resolve) {
+    return new Promise(function (resolve, reject) {
         var instance = new node_ssdp_1.Client({});
         var found = false;
         instance.on("response", function (headers, _code, rinfo) { return __awaiter(_this, void 0, void 0, function () {
-            var _a;
+            var _a, locationMatch, path, descIndex;
             return __generator(this, function (_b) {
                 switch (_b.label) {
                     case 0:
+                        // if (rinfo.address === "192.168.0.12") {
+                        //   console.log({ headers, _code, rinfo });
+                        // }
                         if (found || rinfo.address === "127.0.0.1")
                             return [2 /*return*/];
                         _a = headers.LOCATION;
@@ -100,11 +105,17 @@ function findBox() {
                             found = true;
                             clearTimeout(timer);
                             instance.stop();
+                            locationMatch = /\/description(\d+)\.xml$/.exec(headers.LOCATION);
+                            if ((locationMatch === null || locationMatch === void 0 ? void 0 : locationMatch.length) !== 2) {
+                                return [2 /*return*/, reject(new Error("Location format not recognized: " + headers.LOCATION))];
+                            }
+                            path = locationMatch[0];
+                            descIndex = parseInt(locationMatch[1], 10);
                             resolve({
                                 ip: rinfo.address,
                                 location: {
                                     RemoteUIServer: headers.LOCATION,
-                                    MediaRenderer: headers.LOCATION.replace("description1.xml", "description0.xml"),
+                                    MediaRenderer: headers.LOCATION.replace(path, "/description" + (descIndex - 1) + ".xml"),
                                 },
                             });
                         }
