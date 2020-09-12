@@ -18,7 +18,7 @@
   "dependencies": {
     "fuzzyset.js": "^0.0.4",
     "hapi": "^17.6.0",
-    "node-fetch": "^2.0.0",
+    "node-fetch": "^2.6.1",
     "node-ssdp": "^3.2.1",
     "rfb2": "^0.2.0",
     "upnp-device-client": "https://github.com/guillaume86/node-upnp-device-client",
